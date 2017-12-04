@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CardDemo</string>
+
+
+    <string-array name="name">
+        <item>jayesh</item>
+        <item>rajesh</item>
+        <item>rakesh</item>
+    </string-array>
+
+<string-array name="email">
+    <item>jayesh@gmail.com</item>
+    <item>rajeshgmail.com</item>
+    <item>rakesh@gmail.com</item>
+</string-array>
+
+    <array name="photo">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+    </array>
+
+</resources>
